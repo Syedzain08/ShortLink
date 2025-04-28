@@ -25,7 +25,7 @@ Thank you so much for your interest. Here is a link to the job description for y
 If you have any questions regarding this position, feel free to contact me.
 
 Best Wishes,
-Darakshan Ali
+[Your Name]
 """
 
 
